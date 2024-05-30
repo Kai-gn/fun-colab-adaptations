@@ -10,13 +10,13 @@ This repository contains Google Colab adaptations of two innovative projects to 
 
    - **Original Repository**: [txt2imghd](https://github.com/jquesnelle/txt2imghd)
    - **Description**: The txt2imghd tool, following the methodology from progrockdiffusion, facilitates the generation of detailed images by scaling up an initial output and refining it through subsequent img2img processes.
-   - **Google Colab Link**: [txt2imghd Colab Notebook]([https://colab.research.google.com/](https://colab.research.google.com/drive/1jydtGFnwMR6fYSek6J7d8iyrjDltoILN?usp=drive_open#scrollTo=XPhAfvCW-IcG))
+   - **Google Colab Link**: [txt2imghd Colab Notebook](https://colab.research.google.com/drive/1jydtGFnwMR6fYSek6J7d8iyrjDltoILN?usp=drive_open#scrollTo=XPhAfvCW-IcG)
 
 2. **Estimating and Exploiting the Aleatoric Uncertainty in Surface Normal Estimation**: A robust method for estimating surface normal uncertainties in imaging, which helps in improving the precision of depth perception in various computer vision applications.
 
    - **Original Repository**: [surface_normal_uncertainty](https://github.com/baegwangbin/surface_normal_uncertainty)
    - **Description**: This project introduces a novel approach to quantify and leverage aleatoric uncertainty in the estimation of surface normals, enhancing the accuracy and detail of the predictions.
-   - **Google Colab Link**: [Surface Normal Uncertainty Colab Notebook]([https://colab.research.google.com/](https://colab.research.google.com/drive/1HLjJORchZvzIdl8Mr_mXMYOr7-rhQygW?usp=drive_open#scrollTo=_MAEOIPQRnA2))
+   - **Google Colab Link**: [Surface Normal Uncertainty Colab Notebook](https://colab.research.google.com/drive/1HLjJORchZvzIdl8Mr_mXMYOr7-rhQygW?usp=drive_open#scrollTo=_MAEOIPQRnA2)
 
 ## Purpose of This Adaptation
 
